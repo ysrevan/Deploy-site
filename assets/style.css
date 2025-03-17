@@ -494,6 +494,9 @@
   }
  /*                             Media Query                         */
 @media (max-width:992px){
+  #nav_area{
+    width:100%;
+  }
    .nav{
         width: 80%;
     }
